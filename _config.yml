@@ -94,11 +94,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Minji Park"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Technical Artist"
+  location         : "Korea"
+  email            : "latie1221@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

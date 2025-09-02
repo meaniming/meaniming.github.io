@@ -96,7 +96,7 @@ TA가 왜 이런 시스템을 만지게 되었는지 공유하기
 
 **Project Settings - Engine - Interchange - Import Content - Content Import Settings - Pipeline Stacks**
 
-![image.png](image%201.png)
+![Interchange raw data 설명](/assets/images/data_image_interchange.png)
 
 **스택 단위로 지정할 수 있는 Asset Pipeline은 1개**만 적용할 수 있다.
 
